@@ -13,6 +13,9 @@ Robot Avoider adalah robot berbasis ESP32 yang mampu mendeteksi dan menghindari 
 - Buzzer
 - 2 DC Motor
 - 2 Battery 18650
+## LCD Development
+
+Feature LCD sedang dikembangkan pada branch feature/lcd
 
 ## 📂 Folder Structure
 
