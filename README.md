@@ -1,4 +1,4 @@
-# 🤖 Robot Avoider ESP32
+# 🤖 Robot Avoider ESP32 with Buzzer
 
 ## 📖 Description
 
