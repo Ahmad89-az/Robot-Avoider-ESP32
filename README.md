@@ -1,4 +1,4 @@
-# 🤖 Robot Avoider ESP32
+# 🤖 Robot Avoider ESP32 Version 2
 
 ## 📖 Description
 
